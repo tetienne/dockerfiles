@@ -4,3 +4,7 @@ updates:
     directory: "/home-assistant"
     schedule:
       interval: "daily"
+  - package-ecosystem: "docker"
+    directory: "/sonarr"
+    schedule:
+      interval: "daily"
