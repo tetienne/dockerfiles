@@ -1,1 +1,1 @@
-FROM homeassistant/home-assistant:2021.6.3
+FROM homeassistant/home-assistant:2021.7.3
